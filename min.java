@@ -18,3 +18,6 @@ public class Exercise4 {
         System.out.println((int) min + " minutes is approximately " + years + " years and " + days + " days");
     }
 }
+/** OUTPUT
+Input the number of minutes: 3456789                                                                          
+3456789 minutes is approximately 6 years and 210 days
